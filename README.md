@@ -1,1 +1,5 @@
+# 코딩테스트 연습장
+<br>
 
+## What I want to do?
+- Algorithmic thinking
